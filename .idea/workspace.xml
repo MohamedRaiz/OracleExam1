@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a421715c-40e1-4701-9db7-e17ed58c27d2" name="Default Changelist" comment="" />
+    <list default="true" id="a421715c-40e1-4701-9db7-e17ed58c27d2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MainTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MainTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Next.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Next.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PrimitiveData/Bar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PrimitiveData/Bar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PrimitiveData/Bar2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PrimitiveData/Bar2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PrimitiveData/FooBar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PrimitiveData/FooBar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PrimitiveData/NarrowExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PrimitiveData/NarrowExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PrimitiveData/WideningExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PrimitiveData/WideningExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PrintArgs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PrintArgs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TheStart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TheStart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/garden/vegetable/VineVegetables.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/garden/vegetable/VineVegetables.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,29 +28,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PrimitiveData/Bar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PrimitiveData/Bar2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PrimitiveData/FooBar.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/PrimitiveData/UnsignedExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="53" selection-start-line="53" selection-end-line="53" />
+            <state relative-caret-position="420">
+              <caret line="28" column="77" selection-start-line="28" selection-start-column="77" selection-end-line="28" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Integer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="463" column="25" selection-start-line="463" selection-start-column="25" selection-end-line="463" selection-end-column="25" />
+              <folding>
+                <element signature="e#17180#17181#0" expanded="true" />
+                <element signature="e#17235#17236#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -73,6 +81,11 @@
         <option value="$PROJECT_DIR$/src/main/java/PrimitiveData/Bar2.java" />
         <option value="$PROJECT_DIR$/src/main/java/PrimitiveData/Foobar.java" />
         <option value="$PROJECT_DIR$/src/main/java/PrimitiveData/FooBar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PrimitiveData/NarrowExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PrimitiveData/WideningExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PrimitiveData/CastingExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PrimitiveData/TruncateNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PrimitiveData/UnsignedExample.java" />
       </list>
     </option>
   </component>
@@ -132,7 +145,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582793704594" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583047718434" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -156,9 +169,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FooBar">
-    <configuration name="Bar2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimitiveData.Bar2" />
+  <component name="RunManager" selected="Application.UnsignedExample">
+    <configuration name="CastingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimitiveData.CastingExample" />
       <module name="GettingStartedExam1" />
       <extension name="coverage">
         <pattern>
@@ -170,8 +183,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FooBar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimitiveData.FooBar" />
+    <configuration name="NarrowExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimitiveData.NarrowExample" />
       <module name="GettingStartedExam1" />
       <extension name="coverage">
         <pattern>
@@ -183,18 +196,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TheStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TheStart" />
+    <configuration name="TruncateNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimitiveData.TruncateNumber" />
       <module name="GettingStartedExam1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VineVegetables (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="garden.vegetable.VineVegetables" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="garden.vegetable.*" />
+          <option name="PATTERN" value="PrimitiveData.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,12 +209,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VineVegetables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="garden.vegetable.VineVegetables" />
+    <configuration name="UnsignedExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimitiveData.UnsignedExample" />
       <module name="GettingStartedExam1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="garden.vegetable.*" />
+          <option name="PATTERN" value="PrimitiveData.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WideningExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimitiveData.WideningExample" />
+      <module name="GettingStartedExam1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PrimitiveData.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,11 +237,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FooBar" />
-        <item itemvalue="Application.Bar2" />
-        <item itemvalue="Application.VineVegetables" />
-        <item itemvalue="Application.VineVegetables (1)" />
-        <item itemvalue="Application.TheStart" />
+        <item itemvalue="Application.UnsignedExample" />
+        <item itemvalue="Application.TruncateNumber" />
+        <item itemvalue="Application.CastingExample" />
+        <item itemvalue="Application.WideningExample" />
+        <item itemvalue="Application.NarrowExample" />
       </list>
     </recent_temporary>
   </component>
@@ -240,7 +260,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18955651" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -255,8 +274,8 @@
       <window_info id="Learn" order="10" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4985119" visible="true" weight="0.29120198" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985119" weight="0.29120198" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39900866" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -265,7 +284,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5014881" side_tool="true" weight="0.32961586" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3283767" />
       <window_info anchor="bottom" id="Console" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="12" visible="true" weight="0.32961586" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -275,6 +294,18 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Theme Preview" order="7" />
     </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/PrimitiveData/UnsignedExample.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/TheBeginning.class" />
@@ -356,8 +387,54 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/PrimitiveData/FooBar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="210">
+          <caret line="47" column="40" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PrimitiveData/NarrowExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="43" selection-start-line="43" selection-start-column="2" selection-end-line="46" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PrimitiveData/WideningExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="49" column="35" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PrimitiveData/CastingExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PrimitiveData/TruncateNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="463" column="25" selection-start-line="463" selection-start-column="25" selection-end-line="463" selection-end-column="25" />
+          <folding>
+            <element signature="e#17180#17181#0" expanded="true" />
+            <element signature="e#17235#17236#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PrimitiveData/UnsignedExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="77" selection-start-line="28" selection-start-column="77" selection-end-line="28" selection-end-column="77" />
         </state>
       </provider>
     </entry>
