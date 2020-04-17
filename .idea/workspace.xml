@@ -3,31 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a421715c-40e1-4701-9db7-e17ed58c27d2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LVTI/Test/Var.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LVTI/Test/Var.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LVTI/Test/VarDonts.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LVTI/Test/VarDonts.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LVTI/Test/VarLoops.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LVTI/Test/VarLoops.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LVTI/Test/VarTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LVTI/Test/VarTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LVTI/com/WordyCompanyName/ALongPackageName/AClassWithAVeryLongName.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LVTI/com/WordyCompanyName/ALongPackageName/AClassWithAVeryLongName.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/MainTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MainTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Next.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Next.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PrimitiveData/Bar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PrimitiveData/Bar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PrimitiveData/Bar2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PrimitiveData/Bar2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PrimitiveData/CastingExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PrimitiveData/CastingExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PrimitiveData/FooBar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PrimitiveData/FooBar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PrimitiveData/NarrowExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PrimitiveData/NarrowExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PrimitiveData/TruncateNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PrimitiveData/TruncateNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PrimitiveData/UnsignedExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PrimitiveData/UnsignedExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PrimitiveData/WideningExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PrimitiveData/WideningExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PrintArgs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PrintArgs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Scope/NestedScope$1locallyDefinedClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Scope/NestedScope$1locallyDefinedClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Scope/NestedScope.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Scope/NestedScope.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Scope/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Scope/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Scope/TestPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Scope/TestPerson.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/StringsZ/ImmutableString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StringsZ/ImmutableString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/StringsZ/Recap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StringsZ/Recap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/StringsZ/StringSpliceAndDice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StringsZ/StringSpliceAndDice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TheStart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TheStart.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/garden/vegetable/VineVegetables.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/garden/vegetable/VineVegetables.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -41,7 +16,44 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderCreation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderTestComparators.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="61">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderAppendInsert.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderManipulation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -93,6 +105,11 @@
         <option value="$PROJECT_DIR$/src/main/java/StringsZ/TextTransform.java" />
         <option value="$PROJECT_DIR$/src/main/java/StringsZ/TestValueOf.java" />
         <option value="$PROJECT_DIR$/src/main/java/StringsZ/StringCount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderCreation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderComparator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderAppendMethod.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderAppendInsert.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderManipulation.java" />
       </list>
     </option>
   </component>
@@ -157,7 +174,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587043696086" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587047059591" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/LVTI" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -182,7 +199,59 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringCount">
+  <component name="RunManager" selected="Application.StringBuilderManipulation">
+    <configuration name="StringBuilderAppendInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringsZ.StringBuilderAppendInsert" />
+      <module name="GettingStartedExam1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringsZ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBuilderCreation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringsZ.StringBuilderCreation" />
+      <module name="GettingStartedExam1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringsZ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBuilderManipulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringsZ.StringBuilderManipulation" />
+      <module name="GettingStartedExam1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringsZ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBuilderTestComparators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringsZ.StringBuilderTestComparators" />
+      <module name="GettingStartedExam1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringsZ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringsZ.StringCount" />
       <module name="GettingStartedExam1" />
@@ -196,65 +265,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringSpliceAndDice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringsZ.StringSpliceAndDice" />
-      <module name="GettingStartedExam1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringsZ.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringsReplacement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringsZ.StringsReplacement" />
-      <module name="GettingStartedExam1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringsZ.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestValueOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringsZ.TestValueOf" />
-      <module name="GettingStartedExam1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringsZ.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TextTransform" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringsZ.TextTransform" />
-      <module name="GettingStartedExam1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringsZ.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringBuilderManipulation" />
+        <item itemvalue="Application.StringBuilderAppendInsert" />
+        <item itemvalue="Application.StringBuilderTestComparators" />
+        <item itemvalue="Application.StringBuilderCreation" />
         <item itemvalue="Application.StringCount" />
-        <item itemvalue="Application.TestValueOf" />
-        <item itemvalue="Application.TextTransform" />
-        <item itemvalue="Application.StringsReplacement" />
-        <item itemvalue="Application.StringSpliceAndDice" />
       </list>
     </recent_temporary>
   </component>
@@ -606,6 +623,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="62">
           <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderCreation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderTestComparators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderAppendInsert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderManipulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
         </state>
       </provider>
     </entry>
