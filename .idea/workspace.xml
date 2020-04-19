@@ -17,38 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderCreation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderTestComparators.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="61">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderAppendInsert.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderManipulation.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderExtras.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+            <state relative-caret-position="595">
+              <caret line="88" lean-forward="true" selection-start-line="87" selection-start-column="1" selection-end-line="88" />
             </state>
           </provider>
         </entry>
@@ -110,6 +83,7 @@
         <option value="$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderAppendMethod.java" />
         <option value="$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderAppendInsert.java" />
         <option value="$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderManipulation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderExtras.java" />
       </list>
     </option>
   </component>
@@ -174,7 +148,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587047059591" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587302711558" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/LVTI" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -199,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringBuilderManipulation">
+  <component name="RunManager" selected="Application.StringBuilderExtras">
     <configuration name="StringBuilderAppendInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringsZ.StringBuilderAppendInsert" />
       <module name="GettingStartedExam1" />
@@ -215,6 +189,19 @@
     </configuration>
     <configuration name="StringBuilderCreation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringsZ.StringBuilderCreation" />
+      <module name="GettingStartedExam1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringsZ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBuilderExtras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringsZ.StringBuilderExtras" />
       <module name="GettingStartedExam1" />
       <extension name="coverage">
         <pattern>
@@ -252,26 +239,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringsZ.StringCount" />
-      <module name="GettingStartedExam1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringsZ.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringBuilderExtras" />
         <item itemvalue="Application.StringBuilderManipulation" />
         <item itemvalue="Application.StringBuilderAppendInsert" />
         <item itemvalue="Application.StringBuilderTestComparators" />
         <item itemvalue="Application.StringBuilderCreation" />
-        <item itemvalue="Application.StringCount" />
       </list>
     </recent_temporary>
   </component>
@@ -649,8 +623,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderManipulation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+        <state relative-caret-position="386">
+          <caret line="41" column="31" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderExtras.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="88" lean-forward="true" selection-start-line="87" selection-start-column="1" selection-end-line="88" />
         </state>
       </provider>
     </entry>
