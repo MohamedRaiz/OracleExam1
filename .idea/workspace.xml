@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a421715c-40e1-4701-9db7-e17ed58c27d2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderExtras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderExtras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StringsZ/StringBuilderExtras.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StringsZ/StringBuilderExtras.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,10 +20,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderExtras.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Operators/TernaryOperator/TernaryOperators.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="88" lean-forward="true" selection-start-line="87" selection-start-column="1" selection-end-line="88" />
+            <state relative-caret-position="35">
+              <caret line="8" selection-start-line="7" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -64,8 +66,6 @@
         <option value="$PROJECT_DIR$/src/main/java/PrimitiveData/UnsignedExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/PrimitiveData/Scope/Person.java" />
         <option value="$PROJECT_DIR$/src/main/java/Scope/TestPerson.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Scope/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Scope/NestedScope.java" />
         <option value="$PROJECT_DIR$/src/main/java/LVTI/AClassWithAVeryLongName.java" />
         <option value="$PROJECT_DIR$/src/main/java/LVTI/WordyCompanyName/com/WordyCompanyName/ALongPackageName/AClassWithAVeryLongName.java" />
         <option value="$PROJECT_DIR$/src/main/java/LVTI/com/WordyCompanyName/AClassWithAVeryLongName.java" />
@@ -84,6 +84,14 @@
         <option value="$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderAppendInsert.java" />
         <option value="$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderManipulation.java" />
         <option value="$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderExtras.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Operators/UnaryOperator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Operators/UnaryOperatorMore.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Operators/BinaryOperators/BinaryOperatorExamples.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Operators/BinaryOperators/BinaryOperatorsExample2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Operators/BinaryOperators/BinaryOperatorExamples2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Operators/TernaryOperator/TernaryOperators.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Scope/NestedScope.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Scope/Person.java" />
       </list>
     </option>
   </component>
@@ -98,7 +106,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,7 +137,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="StringsZ" type="462c0819:PsiDirectoryNode" />
+              <item name="Operators" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GettingStartedExam1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GettingStartedExam1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Scope" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GettingStartedExam1" type="b2602c69:ProjectViewProjectNode" />
@@ -145,16 +160,18 @@
           <select />
         </subPane>
       </pane>
+      <pane id="CatdeaLogs" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587302711558" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588929887004" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/LVTI" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="studioMain" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -173,13 +190,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringBuilderExtras">
-    <configuration name="StringBuilderAppendInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringsZ.StringBuilderAppendInsert" />
+  <component name="RunManager" selected="Application.TernaryOperators">
+    <configuration name="BinaryOperatorExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operators.BinaryOperators.BinaryOperatorExamples" />
       <module name="GettingStartedExam1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringsZ.*" />
+          <option name="PATTERN" value="Operators.BinaryOperators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,12 +204,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilderCreation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringsZ.StringBuilderCreation" />
+    <configuration name="BinaryOperatorExamples2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operators.BinaryOperators.BinaryOperatorExamples2" />
       <module name="GettingStartedExam1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringsZ.*" />
+          <option name="PATTERN" value="Operators.BinaryOperators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,12 +217,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilderExtras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringsZ.StringBuilderExtras" />
+    <configuration name="TernaryOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operators.TernaryOperator.TernaryOperators" />
       <module name="GettingStartedExam1" />
+      <option name="PROGRAM_PARAMETERS" value="arg1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringsZ.*" />
+          <option name="PATTERN" value="Operators.TernaryOperator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,12 +231,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilderManipulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringsZ.StringBuilderManipulation" />
+    <configuration name="UnaryOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operators.UnaryOperators.UnaryOperator" />
       <module name="GettingStartedExam1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringsZ.*" />
+          <option name="PATTERN" value="Operators.UnaryOperators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,12 +244,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilderTestComparators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringsZ.StringBuilderTestComparators" />
+    <configuration name="UnaryOperatorMore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operators.UnaryOperators.UnaryOperatorMore" />
       <module name="GettingStartedExam1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringsZ.*" />
+          <option name="PATTERN" value="Operators.UnaryOperators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,13 +257,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.BinaryOperatorExamples" />
+      <item itemvalue="Application.BinaryOperatorExamples2" />
+      <item itemvalue="Application.TernaryOperators" />
+      <item itemvalue="Application.UnaryOperator" />
+      <item itemvalue="Application.UnaryOperatorMore" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringBuilderExtras" />
-        <item itemvalue="Application.StringBuilderManipulation" />
-        <item itemvalue="Application.StringBuilderAppendInsert" />
-        <item itemvalue="Application.StringBuilderTestComparators" />
-        <item itemvalue="Application.StringBuilderCreation" />
+        <item itemvalue="Application.TernaryOperators" />
+        <item itemvalue="Application.BinaryOperatorExamples2" />
+        <item itemvalue="Application.BinaryOperatorExamples" />
+        <item itemvalue="Application.UnaryOperatorMore" />
+        <item itemvalue="Application.UnaryOperator" />
       </list>
     </recent_temporary>
   </component>
@@ -264,8 +289,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2360515" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18097281" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -278,14 +304,14 @@
       <window_info id="Learn" order="10" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4985119" visible="true" weight="0.29120198" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49785408" visible="true" weight="0.44114003" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39900866" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.22304833" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5014881" side_tool="true" weight="0.32961586" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50214595" side_tool="true" weight="0.44114003" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3283767" />
       <window_info anchor="bottom" id="Console" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32961586" />
@@ -320,6 +346,20 @@
                 </list>
               </option>
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
           </value>
         </entry>
       </map>
@@ -441,28 +481,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="463" column="25" selection-start-line="463" selection-start-column="25" selection-end-line="463" selection-end-column="25" />
-          <folding>
-            <element signature="e#17180#17181#0" expanded="true" />
-            <element signature="e#17235#17236#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/PrimitiveData/UnsignedExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="77" selection-start-line="28" selection-start-column="77" selection-end-line="28" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Scope/NestedScope.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -502,24 +524,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Scope/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="112" column="44" selection-start-line="112" selection-start-column="44" selection-end-line="112" selection-end-column="44" />
-          <folding>
-            <element signature="e#1769#1770#0" expanded="true" />
-            <element signature="e#1817#1818#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Scope/TestPerson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -630,8 +634,81 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderExtras.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="88" lean-forward="true" selection-start-line="87" selection-start-column="1" selection-end-line="88" />
+        <state relative-caret-position="225">
+          <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Operators/BinaryOperators/BinaryOperatorExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-894">
+          <caret line="82" column="67" selection-start-line="82" selection-start-column="67" selection-end-line="82" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Operators/BinaryOperators/BinaryOperatorExamples2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="124" lean-forward="true" selection-start-line="124" selection-end-line="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Operators/UnaryOperators/UnaryOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Operators/UnaryOperators/UnaryOperatorMore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="330" column="25" selection-start-line="330" selection-start-column="25" selection-end-line="330" selection-end-column="25" />
+          <folding>
+            <element signature="e#11853#11854#0" expanded="true" />
+            <element signature="e#11899#11900#0" expanded="true" />
+            <element signature="e#17180#17181#0" expanded="true" />
+            <element signature="e#17235#17236#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Scope/NestedScope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="35" column="29" lean-forward="true" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Scope/TestPerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Scope/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="47" column="36" lean-forward="true" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
+          <folding>
+            <element signature="e#1769#1770#0" expanded="true" />
+            <element signature="e#1817#1818#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Operators/TernaryOperator/TernaryOperators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="8" selection-start-line="7" selection-end-line="8" />
         </state>
       </provider>
     </entry>

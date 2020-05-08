@@ -74,6 +74,7 @@ public class StringBuilderExtras {
         System.out.println("myCharacterArray6 = " +
                 java.util.Arrays.toString(myCharacterArray6));
 
+
         // Let's change the destination index
 //        char[] myCharacterArray7 = new char[5];
 //        char[] myCharacterArray8 = new char[5];
