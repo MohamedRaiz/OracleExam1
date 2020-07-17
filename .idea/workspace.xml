@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a421715c-40e1-4701-9db7-e17ed58c27d2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/GettingStartedExam1.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Arrays/ArrayComparison.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Arrays/ArrayComparison.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arrays/ArrayComparison.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arrays/ArrayComparison.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,14 +19,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Arrays/ArrayComparison.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="432">
-              <caret line="59" column="93" lean-forward="true" selection-start-line="59" selection-start-column="93" selection-end-line="59" selection-end-column="93" />
+              <caret line="60" selection-start-line="60" selection-end-line="60" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Arrays/ArraySearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-279">
+              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="668" column="8" selection-start-line="668" selection-start-column="8" selection-end-line="668" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -90,7 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/PrimitiveData/NarrowExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/PrimitiveData/WideningExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/PrimitiveData/CastingExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/PrimitiveData/TruncateNumber.java" />
@@ -141,6 +162,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Loops/ForLoopExample3.java" />
         <option value="$PROJECT_DIR$/src/main/java/Arrays/FirstExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/Arrays/ArrayComparison.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Arrays/ArraySearch.java" />
       </list>
     </option>
   </component>
@@ -206,7 +228,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594085722563" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594960815958" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/LVTI" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -231,9 +253,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayComparison">
+  <component name="RunManager" selected="Application.ArraySearch">
     <configuration name="ArrayComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.ArrayComparison" />
+      <module name="GettingStartedExam1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.ArraySearch" />
       <module name="GettingStartedExam1" />
       <extension name="coverage">
         <pattern>
@@ -251,20 +286,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ForLoopExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops.ForLoopExample1" />
-      <module name="GettingStartedExam1" />
-      <option name="PROGRAM_PARAMETERS" value="one two three" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -299,19 +320,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ForLoopExample1" />
       <item itemvalue="Application.ForLoopExample2" />
       <item itemvalue="Application.ForLoopExample3" />
       <item itemvalue="Application.FirstExample" />
       <item itemvalue="Application.ArrayComparison" />
+      <item itemvalue="Application.ArraySearch" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArraySearch" />
         <item itemvalue="Application.ArrayComparison" />
         <item itemvalue="Application.FirstExample" />
         <item itemvalue="Application.ForLoopExample3" />
         <item itemvalue="Application.ForLoopExample2" />
-        <item itemvalue="Application.ForLoopExample1" />
       </list>
     </recent_temporary>
   </component>
@@ -345,7 +366,7 @@
       <window_info id="Learn" order="10" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32961586" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49785408" visible="true" weight="0.23915738" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49785408" visible="true" weight="0.40892193" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39900866" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -437,14 +458,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/PrimitiveData/UnsignedExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="77" selection-start-line="28" selection-start-column="77" selection-end-line="28" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LVTI/WordyCompanyName/AClassWithAVeryLongName.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/LVTI/Test/VarTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -814,7 +827,24 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Arrays/ArrayComparison.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
-          <caret line="59" column="93" lean-forward="true" selection-start-line="59" selection-start-column="93" selection-end-line="59" selection-end-column="93" />
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="668" column="8" selection-start-line="668" selection-start-column="8" selection-end-line="668" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Arrays/ArraySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-279">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -58,5 +58,6 @@ public class ArrayComparison {
         //Comparing List
         System.out.println("\n ---- List.Equals-----");
         System.out.println("firstlist.equals(secondList) = " + firstList.equals(secondList));
+
     }
 }
