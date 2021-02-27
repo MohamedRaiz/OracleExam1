@@ -1,4 +1,4 @@
-package Inheritence.petstore;
+package Inheritence.Petstore;
 
 /*
 Learn Programming Academy's Java 1Z0-815 Certification Exam Course
