@@ -11,6 +11,10 @@ class Dog extends Animal {
     public void printDog() {
         System.out.println("I am A Dog");
     }
+
+    public String getDogString() {
+        return "dog";
+    }
 }
 
 class Cat extends Animal {
@@ -38,6 +42,13 @@ public class DownCastExamples {
         //Try overloaded methods with generically typed variables.
         dex.testAnimal(genericDog);
         dex.testAnimal(genericCat);
+
+        if(((Dog)genericDog).getDogString().equals("dog")) {
+            System.out.println("Matched");
+        }
+
+        Cat c = (Cat) dex.passThrough(genericCat);
+        c.printCat();
     }
 
     //Three overloaded methods.
@@ -63,6 +74,10 @@ public class DownCastExamples {
 
     public void testCat(Cat cat) {
         cat.printCat();
+    }
+
+    public Object passThrough(Object o) {
+        return o;
     }
 
 }
