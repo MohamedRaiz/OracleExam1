@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a421715c-40e1-4701-9db7-e17ed58c27d2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Polymorphism/DownCastExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Polymorphism/DownCastExamples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Polymorphism/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Polymorphism/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Polymorphism/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Polymorphism/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Polymorphism/DownCastExamples.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Polymorphism/DownCastExamples.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Polymorphism/GenericCasts$NextClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Polymorphism/GenericCasts$NextClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Polymorphism/GenericCasts.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Polymorphism/GenericCasts.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,75 +20,26 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Polymorphism/DownCastExamples.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/AbstractableExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="48" selection-start-line="48" selection-end-line="48" />
+            <state relative-caret-position="274">
+              <caret line="28" column="65" selection-start-line="28" selection-start-column="65" selection-end-line="28" selection-end-column="65" />
               <folding>
-                <element signature="e#69#70#0" expanded="true" />
-                <element signature="e#105#106#0" expanded="true" />
-                <element signature="e#181#182#0" expanded="true" />
-                <element signature="e#217#218#0" expanded="true" />
-                <element signature="e#264#265#0" expanded="true" />
-                <element signature="e#289#290#0" expanded="true" />
-                <element signature="e#289#290#0" expanded="true" />
-                <element signature="e#325#326#0" expanded="true" />
-                <element signature="e#1855#1856#0" expanded="true" />
-                <element signature="e#1893#1894#0" expanded="true" />
-                <element signature="e#1933#1934#0" expanded="true" />
-                <element signature="e#1971#1972#0" expanded="true" />
-                <element signature="e#1905#1906#0" expanded="true" />
-                <element signature="e#1929#1930#0" expanded="true" />
+                <element signature="e#1440#1441#0" expanded="true" />
+                <element signature="e#1519#1520#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Polymorphism/GenericCasts.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/AmbiguousExamples.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="131" column="51" selection-start-line="131" selection-start-column="51" selection-end-line="131" selection-end-column="51" />
+            <state relative-caret-position="480">
+              <caret line="32" column="23" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="23" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#461#462#0" expanded="true" />
-                <element signature="e#512#513#0" expanded="true" />
-                <element signature="e#642#643#0" expanded="true" />
-                <element signature="e#707#708#0" expanded="true" />
-                <element signature="e#779#780#0" expanded="true" />
-                <element signature="e#823#824#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Polymorphism/UpCastExamples.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-              <folding>
-                <element signature="e#322#323#0" expanded="true" />
-                <element signature="e#351#352#0" expanded="true" />
-                <element signature="e#489#490#0" expanded="true" />
-                <element signature="e#524#525#0" expanded="true" />
-                <element signature="e#650#651#0" expanded="true" />
-                <element signature="e#685#686#0" expanded="true" />
-                <element signature="e#1429#1430#0" expanded="true" />
-                <element signature="e#1502#1503#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Polymorphism/CastExtras.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
-              <folding>
-                <element signature="e#438#439#0" expanded="true" />
-                <element signature="e#489#490#0" expanded="true" />
+                <element signature="e#931#932#0" expanded="true" />
+                <element signature="e#967#968#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -119,15 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Arrays/TwoDimensionalArray.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Arrays/ArrayExtras.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Arrays/ArraysAndList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Objects/References.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Objects/InitializeOrder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Objects/InitializerOrderMore.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Objects/StaticInitializer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Objects/ForwardReference.java" />
-        <option value="$PROJECT_DIR$/src/main/java/StringsZ/TextTransform.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Objects/InitializerOddsAndEnds.java" />
         <option value="$PROJECT_DIR$/src/main/java/Objects/FinalFields.java" />
@@ -170,6 +110,15 @@
         <option value="$PROJECT_DIR$/src/main/java/Polymorphism/UpCastExamples.java" />
         <option value="$PROJECT_DIR$/src/main/java/Polymorphism/CastExtras.java" />
         <option value="$PROJECT_DIR$/src/main/java/Polymorphism/GenericCasts.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Polymorphism/Test1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interfaces/InterfaceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interfaces/TestGrowth.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interfaces/InterfaceCast.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interfaces/TestDefaultMethods.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interfaces/ExtendedInterfaceExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interfaces/ExtendInterfaceExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interfaces/AbstractableExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interfaces/AmbiguousExamples.java" />
       </list>
     </option>
   </component>
@@ -215,7 +164,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Polymorphism" type="462c0819:PsiDirectoryNode" />
+              <item name="Interfaces" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GettingStartedExam1" type="b2602c69:ProjectViewProjectNode" />
@@ -230,7 +179,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1620568460827" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1622041276942" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/LVTI" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -255,13 +204,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GenericCasts">
-    <configuration name="CastExtras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Polymorphism.CastExtras" />
+  <component name="RunManager" selected="Application.AmbiguousExamples">
+    <configuration name="AbstractableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interfaces.AbstractableExample" />
       <module name="GettingStartedExam1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Polymorphism.*" />
+          <option name="PATTERN" value="Interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -269,12 +218,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DownCastExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Polymorphism.DownCastExamples" />
+    <configuration name="AmbiguousExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interfaces.AmbiguousExamples" />
       <module name="GettingStartedExam1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Polymorphism.*" />
+          <option name="PATTERN" value="Interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,12 +231,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericCasts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Polymorphism.GenericCasts" />
+    <configuration name="ExtendInterfaceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interfaces.ExtendInterfaceExample" />
       <module name="GettingStartedExam1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Polymorphism.*" />
+          <option name="PATTERN" value="Interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -295,12 +244,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OverrideOverload" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Polymorphism.OverrideOverload" />
+    <configuration name="InterfaceCast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interfaces.InterfaceCast" />
       <module name="GettingStartedExam1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Polymorphism.*" />
+          <option name="PATTERN" value="Interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -308,12 +257,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UpCastExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Polymorphism.UpCastExamples" />
+    <configuration name="TestDefaultMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interfaces.TestDefaultMethods" />
       <module name="GettingStartedExam1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Polymorphism.*" />
+          <option name="PATTERN" value="Interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -322,19 +271,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.OverrideOverload" />
-      <item itemvalue="Application.DownCastExamples" />
-      <item itemvalue="Application.UpCastExamples" />
-      <item itemvalue="Application.CastExtras" />
-      <item itemvalue="Application.GenericCasts" />
+      <item itemvalue="Application.InterfaceCast" />
+      <item itemvalue="Application.TestDefaultMethods" />
+      <item itemvalue="Application.ExtendInterfaceExample" />
+      <item itemvalue="Application.AbstractableExample" />
+      <item itemvalue="Application.AmbiguousExamples" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GenericCasts" />
-        <item itemvalue="Application.CastExtras" />
-        <item itemvalue="Application.UpCastExamples" />
-        <item itemvalue="Application.DownCastExamples" />
-        <item itemvalue="Application.OverrideOverload" />
+        <item itemvalue="Application.AmbiguousExamples" />
+        <item itemvalue="Application.AbstractableExample" />
+        <item itemvalue="Application.ExtendInterfaceExample" />
+        <item itemvalue="Application.TestDefaultMethods" />
+        <item itemvalue="Application.InterfaceCast" />
       </list>
     </recent_temporary>
   </component>
@@ -353,9 +302,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13590844" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17811158" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -368,8 +316,8 @@
       <window_info id="Learn" order="10" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32961586" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49785408" weight="0.1685254" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.33333334" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49785408" visible="true" weight="0.25526643" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33333334" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -534,62 +482,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Arrays/TwoDimensionalArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="79" column="1" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Arrays/ArrayExtras.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="46" column="34" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="687">
-          <caret line="237" column="12" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Arrays/ArraysAndList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-145">
-          <caret line="48" column="42" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Objects/References.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="668">
-          <caret line="55" column="27" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
-          <folding>
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderTestComparators.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/StringsZ/TextTransform.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1027,13 +919,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Polymorphism/test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Polymorphism/OverrideExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -1057,34 +942,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1">
           <caret line="60" column="15" selection-start-line="60" selection-start-column="15" selection-end-line="60" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Polymorphism/UpCastExamples.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-          <folding>
-            <element signature="e#322#323#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
-            <element signature="e#650#651#0" expanded="true" />
-            <element signature="e#685#686#0" expanded="true" />
-            <element signature="e#1429#1430#0" expanded="true" />
-            <element signature="e#1502#1503#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Polymorphism/CastExtras.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
-          <folding>
-            <element signature="e#438#439#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1123,6 +980,144 @@
             <element signature="e#707#708#0" expanded="true" />
             <element signature="e#779#780#0" expanded="true" />
             <element signature="e#823#824#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Polymorphism/UpCastExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#1429#1430#0" expanded="true" />
+            <element signature="e#1502#1503#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Polymorphism/CastExtras.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+          <folding>
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Polymorphism/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="32" lean-forward="true" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/InterfaceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="81" column="25" selection-start-line="81" selection-start-column="25" selection-end-line="81" selection-end-column="25" />
+          <folding>
+            <element signature="e#943#944#0" expanded="true" />
+            <element signature="e#975#976#0" expanded="true" />
+            <element signature="e#1026#1027#0" expanded="true" />
+            <element signature="e#1065#1066#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/TestGrowth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="854">
+          <caret line="73" column="14" selection-start-line="73" selection-start-column="14" selection-end-line="73" selection-end-column="14" />
+          <folding>
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
+            <element signature="e#903#904#0" expanded="true" />
+            <element signature="e#976#977#0" expanded="true" />
+            <element signature="e#1006#1007#0" expanded="true" />
+            <element signature="e#1086#1087#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/InterfaceCast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29">
+          <caret line="52" column="28" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+          <folding>
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#787#788#0" expanded="true" />
+            <element signature="e#844#845#0" expanded="true" />
+            <element signature="e#912#913#0" expanded="true" />
+            <element signature="e#977#978#0" expanded="true" />
+            <element signature="e#1623#1624#0" expanded="true" />
+            <element signature="e#1648#1649#0" expanded="true" />
+            <element signature="e#1777#1778#0" expanded="true" />
+            <element signature="e#1801#1802#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/TestDefaultMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="47" column="37" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
+          <folding>
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+            <element signature="e#913#914#0" expanded="true" />
+            <element signature="e#948#949#0" expanded="true" />
+            <element signature="e#1239#1240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/ExtendInterfaceExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/AbstractableExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="28" column="65" selection-start-line="28" selection-start-column="65" selection-end-line="28" selection-end-column="65" />
+          <folding>
+            <element signature="e#1440#1441#0" expanded="true" />
+            <element signature="e#1519#1520#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/AmbiguousExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="23" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="23" />
+          <folding>
+            <element signature="e#931#932#0" expanded="true" />
+            <element signature="e#967#968#0" expanded="true" />
           </folding>
         </state>
       </provider>
