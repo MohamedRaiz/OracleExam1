@@ -14,7 +14,7 @@ public class ArrayComparison {
 
         String firstStringReference[] = string1;
 
-        //Create pass-through Lists from arrays to test List equality. (Convert Array to List)
+        //Create pass-through Lists from arrays to testasd List equality. (Convert Array to List)
         List<String> firstList = Arrays.asList(string1);
         List<String> secondList = Arrays.asList(copyOfFirstString);
 

@@ -26,7 +26,7 @@ public class FooBar {
 
 // switch statement with a default block satisfies compiler's full initialization check
 
-        int testInt = 5;  // test variable for switch statement.
+        int testInt = 5;  // testasd variable for switch statement.
         int r;  // r is an uninitialized local variable here
         switch (testInt) {
             case 0:

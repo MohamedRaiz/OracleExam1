@@ -49,7 +49,7 @@ public class StringSpliceAndDice {
 
 
         // Following code demonstrates: public String[] split(String regex)
-        // First make sure sentence is delimited by a space to test
+        // First make sure sentence is delimited by a space to testasd
         sentence = String.join(" ", wordList);
         // now split using space
         String[] splitWords = sentence.split(" ");

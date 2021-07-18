@@ -24,7 +24,7 @@ public class CastExtras {
         String name = "Next Best Case";
     }
 
-    // main method, we'll test out some more casting examples
+    // main method, we'll testasd out some more casting examples
     public static void main(String[] args) {
 
         // Let's create the most generic of arrays
@@ -35,7 +35,7 @@ public class CastExtras {
         Arrays.fill(myObjectArray, new NextClass());
 
         // You can put any type of Object in there
-        myObjectArray[5] = new StringBuilder("test");
+        myObjectArray[5] = new StringBuilder("testasd");
 
         System.out.println(myObjectArray.getClass().getTypeName());
         System.out.println(Arrays.toString(myObjectArray));

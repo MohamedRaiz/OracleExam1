@@ -10,9 +10,9 @@ Sub-Topic: Comparing comparators
 public class StringBuilderTestComparators {
     public static void main(String[] args) {
 
-        // Set up some test data.
-        StringBuilder sb = new StringBuilder("This is a test");
-        StringBuilder sb2 = new StringBuilder("This is a test");
+        // Set up some testasd data.
+        StringBuilder sb = new StringBuilder("This is a testasd");
+        StringBuilder sb2 = new StringBuilder("This is a testasd");
 
         // == comparator (compares references)
         System.out.println("(sb == sb2) = " + (sb == sb2));

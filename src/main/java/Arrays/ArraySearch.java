@@ -10,7 +10,7 @@ public class ArraySearch {
         String[] firstStringUnsortedDuplicated = {"def", "jkl", "abc", "jkl"};
         String[] partialFirstString = {"abc", "jkl"};
 
-        //Create List from arrays to test the List search Methods.
+        //Create List from arrays to testasd the List search Methods.
         List<String> firstList = List.of(firstString);
         List<String> secondList = Arrays.asList(firstStringUnsortedDuplicated);
 

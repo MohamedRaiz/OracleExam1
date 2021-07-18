@@ -7,7 +7,7 @@ Topic: Declare and Instantiate Objects
 Sub-Topic:  Object references
 */
 
-// A simple test class with a few attributes, a constructor and
+// A simple testasd class with a few attributes, a constructor and
 // a method.
 class TestClass {
 

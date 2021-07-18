@@ -42,7 +42,7 @@ public class StaticElementTests {
             System.out.println("Printing : " + i);
         }
 
-        //To test what happens what we initialize a class.
+        //To testasd what happens what we initialize a class.
 //        StaticStuff s = new StaticStuff();
 //        System.out.println("Created an instance of StaticStuff");
 

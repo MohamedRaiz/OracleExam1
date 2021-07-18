@@ -33,7 +33,7 @@ public class IfElseExamples {
             System.out.println("5. Flag is true");
         } else System.out.println("5. Flag is false");
 
-        //The following code test precedence/assignments inside an if/else statement.
+        //The following code testasd precedence/assignments inside an if/else statement.
         boolean a = false;
         boolean b = false;
         boolean c = false;

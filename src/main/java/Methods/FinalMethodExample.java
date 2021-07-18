@@ -27,7 +27,7 @@ public class FinalMethodExample extends WillHaveManySubTypes {
 
     public static void main(String[] args) {
 
-        // We instantiate an object and test all the methods
+        // We instantiate an object and testasd all the methods
         FinalMethodExample e = new FinalMethodExample();
         e.doXYourWay();
         e.doYYourWay();

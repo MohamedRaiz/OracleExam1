@@ -6,7 +6,7 @@ import java.util.List;
 public class ListDataManipulation {
     public static void main(String[] args) {
 
-        //Some test data for array
+        //Some testasd data for array
         String[] primaryColour = {"Red", "Blue", "Yellow"};
         String[] secondaryColour = {"Green", "Orange", "Purple"};
 

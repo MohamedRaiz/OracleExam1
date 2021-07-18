@@ -43,7 +43,7 @@ class ConcreteExample extends AbstractExample {
     }
 }
 
-// Now we test our final methods...
+// Now we testasd our final methods...
 public class AbstractClassExample {
 
     public static void main(String[] args) {

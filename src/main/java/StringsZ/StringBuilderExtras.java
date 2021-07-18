@@ -47,7 +47,7 @@ public class StringBuilderExtras {
         System.out.println("myCharacterArray2 = " +
                 java.util.Arrays.toString(myCharacterArray2));
 
-        // Set up some test data
+        // Set up some testasd data
         char[] myCharacterArray3 = new char[builder.length()];
         char[] myCharacterArray4 = new char[builder.length()];
 
@@ -60,7 +60,7 @@ public class StringBuilderExtras {
         System.out.println("myCharacterArray4 = " +
                 java.util.Arrays.toString(myCharacterArray4));
 
-        // Set up additional test data
+        // Set up additional testasd data
         char[] myCharacterArray5 = new char[10];
         char[] myCharacterArray6 = new char[10];
 

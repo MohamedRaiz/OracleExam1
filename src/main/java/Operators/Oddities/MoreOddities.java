@@ -17,7 +17,7 @@ public class MoreOddities {
         System.out.println(" ---- Second Test -----");
         //int result = number-- - --number;
         //result is always 2 in this case.
-        //Example test below
+        //Example testasd below
         for(int i = 10; i<=50; i+=10){
             number = i;
             result = number-- - --number;
