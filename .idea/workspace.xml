@@ -2,24 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a421715c-40e1-4701-9db7-e17ed58c27d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayList/ToArrayExamples.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Arrays/ArrayComparison.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Arrays/ArrayComparison.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Arrays/ArraySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Arrays/ArraySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Arrays/ListDataManipulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Arrays/ListDataManipulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Inheritence/Vehicles/AbstractClassExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Inheritence/Vehicles/AbstractClassExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Methods/FinalMethodExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Methods/FinalMethodExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Methods/StaticElementTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Methods/StaticElementTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Methods/TestPassByValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Methods/TestPassByValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Objects/References.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Objects/References.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Operators/IfElseDecisions/IfElseExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Operators/IfElseDecisions/IfElseExamples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Operators/Oddities/MoreOddities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Operators/Oddities/MoreOddities.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Polymorphism/CastExtras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Polymorphism/CastExtras.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PrimitiveData/FooBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PrimitiveData/FooBar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderExtras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderExtras.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderTestComparators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StringsZ/StringBuilderTestComparators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StringsZ/StringSpliceAndDice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StringsZ/StringSpliceAndDice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Interfaces/AmbiguousExamples.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Interfaces/AmbiguousExamples.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/GettingStartedExam1.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArrayList/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Polymorphism/CastExtras.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Polymorphism/CastExtras.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StringsZ/StringBuilderTestComparators.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StringsZ/StringBuilderTestComparators.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -34,16 +21,83 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ArrayList/FactoryExamples.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressions/AnonymousTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+            <state relative-caret-position="338">
+              <caret line="64" column="74" selection-start-line="64" selection-start-column="74" selection-end-line="64" selection-end-column="74" />
+              <folding>
+                <element signature="e#484#485#0" expanded="true" />
+                <element signature="e#555#556#0" expanded="true" />
+                <element signature="e#948#1073#0" expanded="true" />
+                <element signature="e#1072#1073#0" expanded="true" />
+                <element signature="e#1735#1736#0" expanded="true" />
+                <element signature="e#1760#1761#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressions/Calculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="473">
+              <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
+              <folding>
+                <element signature="e#762#763#0" expanded="true" />
+                <element signature="e#800#801#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressions/BinaryCalculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="45" column="58" selection-start-line="45" selection-start-column="58" selection-end-line="45" selection-end-column="58" />
+              <folding>
+                <element signature="e#767#768#0" expanded="true" />
+                <element signature="e#808#809#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressions/SuppliedInterfaceTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="49" column="21" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1326#1334#0" expanded="true" />
-                <element signature="e#1468#1476#0" expanded="true" />
-                <element signature="e#1632#1640#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressions/ForEachExamples.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-49">
+              <caret line="37" column="27" lean-forward="true" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1228#1236#0" expanded="true" />
+                <element signature="e#1378#1386#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="1687" column="19" selection-start-line="1687" selection-start-column="19" selection-end-line="1687" selection-end-column="19" />
+              <folding>
+                <element signature="e#61275#61276#0" expanded="true" />
+                <element signature="e#61323#61324#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -61,6 +115,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>rawList</find>
+      <find>you cannot</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -72,13 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Methods/RestrictedObjects.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Methods/FinalClassExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Methods/FinalMethodExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Methods/OverloadPrimitive.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Methods/NotOverloaded.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Methods/IsOverloaded.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Methods/OverloadedMatches.java" />
         <option value="$PROJECT_DIR$/src/main/java/Methods/ConstructorOverload.java" />
         <option value="$PROJECT_DIR$/src/main/java/Methods/StaticElementTests.java" />
         <option value="$PROJECT_DIR$/src/main/java/Methods/StaticClassExample.java" />
@@ -123,13 +171,19 @@
         <option value="$PROJECT_DIR$/src/main/java/ArrayList/FactoryExamples.java" />
         <option value="$PROJECT_DIR$/src/main/java/ArrayList/test.java" />
         <option value="$PROJECT_DIR$/src/main/java/ArrayList/testasd.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ArrayList/ToArrayExamples.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ArrayList/ArraylistExamples.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressions/AnonymousTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressions/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressions/BinaryCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressions/SuppliedInterfaceTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressions/ForEachExamples.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
-    <option name="height" value="877" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -137,8 +191,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="CatdeaLogs" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -171,7 +223,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ArrayList" type="462c0819:PsiDirectoryNode" />
+              <item name="LambdaExpressions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GettingStartedExam1" type="b2602c69:ProjectViewProjectNode" />
@@ -181,10 +233,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="CatdeaLogs" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1626364954991" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1627569715976" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/LVTI" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -209,13 +263,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.testasd">
-    <configuration name="AmbiguousExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Interfaces.AmbiguousExamples" />
+  <component name="RunManager" selected="Application.ForEachExamples">
+    <configuration name="AnonymousTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdaExpressions.AnonymousTest" />
       <module name="GettingStartedExam1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Interfaces.*" />
+          <option name="PATTERN" value="LambdaExpressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,12 +277,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompareExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Interfaces.CompareExamples" />
+    <configuration name="BinaryCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdaExpressions.BinaryCalculator" />
       <module name="GettingStartedExam1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Interfaces.*" />
+          <option name="PATTERN" value="LambdaExpressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,12 +290,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactoryExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayList.FactoryExamples" />
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdaExpressions.Calculator" />
       <module name="GettingStartedExam1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArrayList.*" />
+          <option name="PATTERN" value="LambdaExpressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,12 +303,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListDeclaration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayList.ListDeclaration" />
+    <configuration name="ForEachExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdaExpressions.ForEachExamples" />
       <module name="GettingStartedExam1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArrayList.*" />
+          <option name="PATTERN" value="LambdaExpressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,12 +316,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testasd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayList.testasd" />
+    <configuration name="SuppliedInterfaceTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdaExpressions.SuppliedInterfaceTests" />
       <module name="GettingStartedExam1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArrayList.*" />
+          <option name="PATTERN" value="LambdaExpressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -276,19 +330,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AmbiguousExamples" />
-      <item itemvalue="Application.CompareExamples" />
-      <item itemvalue="Application.ListDeclaration" />
-      <item itemvalue="Application.FactoryExamples" />
-      <item itemvalue="Application.testasd" />
+      <item itemvalue="Application.AnonymousTest" />
+      <item itemvalue="Application.Calculator" />
+      <item itemvalue="Application.BinaryCalculator" />
+      <item itemvalue="Application.SuppliedInterfaceTests" />
+      <item itemvalue="Application.ForEachExamples" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.testasd" />
-        <item itemvalue="Application.FactoryExamples" />
-        <item itemvalue="Application.ListDeclaration" />
-        <item itemvalue="Application.CompareExamples" />
-        <item itemvalue="Application.AmbiguousExamples" />
+        <item itemvalue="Application.ForEachExamples" />
+        <item itemvalue="Application.SuppliedInterfaceTests" />
+        <item itemvalue="Application.BinaryCalculator" />
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.AnonymousTest" />
       </list>
     </recent_temporary>
   </component>
@@ -306,9 +360,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18025751" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.1788269" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -321,8 +376,8 @@
       <window_info id="Learn" order="10" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32939634" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49785408" weight="0.27296588" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.33333334" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49785408" weight="0.48079306" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.33333334" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -449,6 +504,18 @@
           <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LambdaExpressions/ForEachExamples.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LambdaExpressions/ForEachExamples.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -487,158 +554,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Objects/FinalFields.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="47" column="5" lean-forward="true" selection-start-line="39" selection-start-column="4" selection-end-line="47" selection-end-column="5" />
-          <folding>
-            <element signature="e#1001#1002#0" expanded="true" />
-            <element signature="e#1050#1051#0" expanded="true" />
-            <element signature="e#1124#1125#0" expanded="true" />
-            <element signature="e#1176#1177#0" expanded="true" />
-            <element signature="e#1600#1601#0" expanded="true" />
-            <element signature="e#1641#1642#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Objects/StaticFieldSamples.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="26" />
-          <folding>
-            <element signature="e#587#588#0" expanded="true" />
-            <element signature="e#679#680#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Methods/TestPassByValue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-617">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Methods/ConstructorExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="6" selection-start-line="6" selection-end-line="7" />
-          <folding>
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Methods/RestrictedObjects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="45" selection-start-line="45" selection-start-column="2" selection-end-line="47" selection-end-column="3" />
-          <folding>
-            <element signature="e#595#596#0" expanded="true" />
-            <element signature="e#626#627#0" expanded="true" />
-            <element signature="e#756#757#0" expanded="true" />
-            <element signature="e#804#805#0" expanded="true" />
-            <element signature="e#1075#1076#0" expanded="true" />
-            <element signature="e#1114#1115#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Methods/FinalClassExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Methods/FinalMethodExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="29" column="60" selection-start-line="29" selection-start-column="60" selection-end-line="29" selection-end-column="60" />
-          <folding>
-            <element signature="e#452#453#0" expanded="true" />
-            <element signature="e#517#518#0" expanded="true" />
-            <element signature="e#993#994#0" expanded="true" />
-            <element signature="e#1051#1052#0" expanded="true" />
-            <element signature="e#1083#1084#0" expanded="true" />
-            <element signature="e#1141#1142#0" expanded="true" />
-            <element signature="e#1211#1212#0" expanded="true" />
-            <element signature="e#1235#1236#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Methods/OverloadPrimitive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-62">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-          <folding>
-            <element signature="e#644#645#0" expanded="true" />
-            <element signature="e#701#702#0" expanded="true" />
-            <element signature="e#740#741#0" expanded="true" />
-            <element signature="e#797#798#0" expanded="true" />
-            <element signature="e#837#838#0" expanded="true" />
-            <element signature="e#895#896#0" expanded="true" />
-            <element signature="e#933#934#0" expanded="true" />
-            <element signature="e#989#990#0" expanded="true" />
-            <element signature="e#1028#1029#0" expanded="true" />
-            <element signature="e#1085#1086#0" expanded="true" />
-            <element signature="e#1125#1126#0" expanded="true" />
-            <element signature="e#1183#1184#0" expanded="true" />
-            <element signature="e#1224#1225#0" expanded="true" />
-            <element signature="e#1283#1284#0" expanded="true" />
-            <element signature="e#1325#1326#0" expanded="true" />
-            <element signature="e#1385#1386#0" expanded="true" />
-            <element signature="e#1426#1427#0" expanded="true" />
-            <element signature="e#1485#1486#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Methods/NotOverloaded.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
-          <folding>
-            <element signature="e#248#249#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Methods/IsOverloaded.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="57" column="40" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
-          <folding>
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-            <element signature="e#545#546#0" expanded="true" />
-            <element signature="e#604#605#0" expanded="true" />
-            <element signature="e#723#724#0" expanded="true" />
-            <element signature="e#786#787#0" expanded="true" />
-            <element signature="e#898#899#0" expanded="true" />
-            <element signature="e#957#958#0" expanded="true" />
-            <element signature="e#1050#1051#0" expanded="true" />
-            <element signature="e#1117#1118#0" expanded="true" />
-            <element signature="e#1215#1216#0" expanded="true" />
-            <element signature="e#1286#1287#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Methods/ConstructorOverload.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-71">
@@ -1106,20 +1021,11 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ArrayList/testasd.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/ArrayList/ListDeclaration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="78" column="24" lean-forward="true" selection-start-line="78" selection-start-column="24" selection-end-line="78" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ArrayList/testasd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        <state relative-caret-position="932">
+          <caret line="94" column="57" selection-start-line="94" selection-start-column="57" selection-end-line="94" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1128,13 +1034,114 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ArrayList/FactoryExamples.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+        <state relative-caret-position="-150">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1326#1334#0" expanded="true" />
-            <element signature="e#1468#1476#0" expanded="true" />
-            <element signature="e#1632#1640#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ArrayList/ToArrayExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1448">
+          <caret line="182" column="60" selection-start-line="182" selection-start-column="60" selection-end-line="182" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ArrayList/ArraylistExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="79" column="9" selection-start-line="79" selection-start-column="9" selection-end-line="79" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressions/AnonymousTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="64" column="74" selection-start-line="64" selection-start-column="74" selection-end-line="64" selection-end-column="74" />
+          <folding>
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#948#1073#0" expanded="true" />
+            <element signature="e#1072#1073#0" expanded="true" />
+            <element signature="e#1735#1736#0" expanded="true" />
+            <element signature="e#1760#1761#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressions/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
+          <folding>
+            <element signature="e#762#763#0" expanded="true" />
+            <element signature="e#800#801#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressions/BinaryCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="45" column="58" selection-start-line="45" selection-start-column="58" selection-end-line="45" selection-end-column="58" />
+          <folding>
+            <element signature="e#767#768#0" expanded="true" />
+            <element signature="e#808#809#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="1687" column="19" selection-start-line="1687" selection-start-column="19" selection-end-line="1687" selection-end-column="19" />
+          <folding>
+            <element signature="e#61275#61276#0" expanded="true" />
+            <element signature="e#61323#61324#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/function/Predicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressions/SuppliedInterfaceTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="49" column="21" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="5244" column="27" selection-start-line="5244" selection-start-column="27" selection-end-line="5244" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressions/ForEachExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="37" column="27" lean-forward="true" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1228#1236#0" expanded="true" />
+            <element signature="e#1378#1386#0" expanded="true" />
           </folding>
         </state>
       </provider>
