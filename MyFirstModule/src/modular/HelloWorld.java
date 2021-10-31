@@ -8,6 +8,6 @@ Topic: Describe how a modular project is compiled and run.
 
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello new modular world");
+        System.out.println("Hello new modular world test");
     }
 }
