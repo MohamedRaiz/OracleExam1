@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a421715c-40e1-4701-9db7-e17ed58c27d2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstModule.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstModule.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstModule/MyFirstModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstModule/MyFirstModule.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyFirstModule/src/modular/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstModule/src/modular/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstModule/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstModule/src/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyFirstModule/modular/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyFirstModule/modular/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyFirstModule/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyFirstModule/module-info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MainTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MainTests.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,23 +24,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyFirstModule/MyFirstModule.iml">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MyFirstModule/src/modular/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MyFirstModule/src/modular/HelloWorld.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MySecondModule/src/module-info.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+            <state>
+              <caret column="21" selection-start-column="7" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MySecondModule/src/mod2/GoodbyeWorld.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
               <folding>
-                <element signature="e#273#274#0" expanded="true" />
-                <element signature="e#334#335#0" expanded="true" />
+                <element signature="e#87#88#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -42,8 +58,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MyFirstModule/src/module-info.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -73,8 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Encapsulation/pkga/SuperClass.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Encapsulation/AllowableChildModifiers.java" />
         <option value="$PROJECT_DIR$/src/main/java/Encapsulation/AllowableOverrideModifiers.java" />
         <option value="$PROJECT_DIR$/src/main/java/Encapsulation/pcgb/ParentClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/Inheritence/Animal.java" />
@@ -123,7 +137,9 @@
         <option value="$PROJECT_DIR$/src/main/java/LambdaExpressions/ForEachExamples.java" />
         <option value="$PROJECT_DIR$/src/main/java/MainTests.java" />
         <option value="$PROJECT_DIR$/MyFirstModule/src/module-info.java" />
+        <option value="$PROJECT_DIR$/MySecondModule/src/mod2/GoodbyeWorld.java" />
         <option value="$PROJECT_DIR$/MyFirstModule/src/modular/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/MySecondModule/src/module-info.java" />
       </list>
     </option>
   </component>
@@ -147,6 +163,11 @@
             </path>
             <path>
               <item name="GettingStartedExam1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GettingStartedExam1" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GettingStartedExam1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
@@ -158,7 +179,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1635662078357" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1636184731350" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/LVTI" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -274,10 +295,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1602289" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11927582" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -296,9 +316,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.58364314" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50214595" side_tool="true" weight="0.44114003" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32713756" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49946752" visible="true" weight="0.47720364" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5005325" side_tool="true" weight="0.47720364" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32624114" />
       <window_info anchor="bottom" id="Console" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32961586" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -468,14 +488,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Encapsulation/pkga/SuperClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Inheritence/com/petstore/Animal.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Encapsulation/pcgb/ParentClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="188">
@@ -993,31 +1005,45 @@
     <entry file="file://$PROJECT_DIR$/out/production/MyFirstModule/module-info.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/MyFirstModule/src/module-info.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MyFirstModule/MyFirstModule.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/manifest.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/MySecondModule/src/mod2/GoodbyeWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
+          <folding>
+            <element signature="e#87#88#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySecondModule/src/module-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyFirstModule/src/module-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MyFirstModule/src/modular/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
-          <folding>
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
@@ -1073,7 +1099,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>MyFirstModule</last-edited>
+          <last-edited>MySecondModule</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
